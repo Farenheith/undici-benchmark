@@ -1,0 +1,9 @@
+{
+	"scripts": {
+		"bench": "node lib/benchmark.js"
+	},
+	"dependencies": {
+		"undici": "^8.1.0",
+		"axios": "^1.15.2"
+	}
+}
